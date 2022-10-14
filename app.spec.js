@@ -9,4 +9,3 @@ it("should translate pie = .--...." ,()=>{
     const result =translateEnglishtoMorse('pie');
     expect(result).toBe('.--....')
 })
-
