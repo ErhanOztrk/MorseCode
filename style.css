@@ -1,0 +1,10 @@
+body {
+    background-color: gray;
+}
+
+.row {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+}
+
